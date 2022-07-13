@@ -1,1 +1,1 @@
-# Calculator Application in Python in PYQT5
+# Calculator Application in PYQT5
